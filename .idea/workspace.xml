@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae3d7d40-265a-4cc5-b7e4-cc309d6b0e04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Agency -it.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Agency -it.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/blog/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog/resources/views/layouts/app.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +47,7 @@
     <select />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
@@ -187,18 +182,34 @@
       <workItem from="1593626818339" duration="14514000" />
       <workItem from="1593644494300" duration="51000" />
       <workItem from="1593770959081" duration="35000" />
-      <workItem from="1594712400309" duration="1734000" />
+      <workItem from="1594712400309" duration="2742000" />
     </task>
+    <task id="LOCAL-00001" summary="AWS Connect">
+      <created>1594714165106</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594714165106</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AWS Connect" />
+    <option name="LAST_COMMIT_MESSAGE" value="AWS Connect" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594713233854">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1594713233854" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1594715167043">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1594715167043" />
     <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1593770990239">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -211,10 +222,26 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1593481505244" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1594714820500">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1594714820500" />
+    <state x="92" y="92" width="1182" height="584" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1594715084848">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="92" y="92" width="1182" height="584" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1366.768@0.0.1366.768" timestamp="1594715084848" />
     <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1594712400243">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1594712400243" />
+    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594714177894">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="492" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1594714177894" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1594714185099">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1594714185099" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
