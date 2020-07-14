@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/blog/app" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/blog/vendor/aws/aws-sdk-php" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/beyondcode/laravel-dump-server" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/dnoegel/php-xdg-base-dir" />
@@ -18,6 +19,9 @@
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/fideloper/proxy" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/filp/whoops" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/blog/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/blog/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/blog/vendor/guzzlehttp/psr7" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/hamcrest/hamcrest-php" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/jakub-onderka/php-console-color" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/jakub-onderka/php-console-highlighter" />
@@ -26,6 +30,7 @@
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/league/flysystem" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/mockery/mockery" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/blog/vendor/mtdowling/jmespath.php" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/myclabs/deep-copy" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/nesbot/carbon" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/nikic/php-parser" />
@@ -46,9 +51,12 @@
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/phpunit/php-token-stream" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/phpunit/phpunit" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/blog/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/blog/vendor/psr/http-message" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/psr/log" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/psr/simple-cache" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/blog/vendor/ralouphie/getallheaders" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/ramsey/uuid" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/sebastian/code-unit-reverse-lookup" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/sebastian/comparator" />
